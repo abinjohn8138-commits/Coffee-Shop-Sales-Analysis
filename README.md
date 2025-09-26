@@ -25,11 +25,6 @@ This project analyzes coffee shop sales data to uncover insights into product pe
 - **Regional Performance:**  
   The **North region** accounts for **35% of total revenue**, making it the top-performing area in terms of sales.
 
----
-
-## 📌 Recommendations
-
-- Launch and promote **cold beverage options** (e
 ## 🛠️ Tools & Technologies
 
 - **Python** (Pandas, Matplotlib, Seaborn)
